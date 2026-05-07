@@ -1,15 +1,17 @@
 # Boot.dev Security Engineering Journey
 
-I am a cybersecurity / hardware security engineer using Boot.dev to build hands-on software engineering, backend, and DevOps foundations. I map those skills to software security using:
+## Portfolio Strategy
 
-- OWASP Top 10 : Use it to map Boot.dev backend/API lessons to common web application risks. [owasp.org]
-- OWASP ASVS : Use it as a checklist for secure backend/API projects. [owasp.org]
-- NIST SSDF : Use it to understand secure SDLC and professional secure development practices. [csrc.nist.gov]
+Boot.dev is my software engineering foundation. It helps me build practical skills in Python, Linux, Git, backend development, databases, Docker, Kubernetes, AWS, and DevOps.
 
-Boot.dev concept → Security connection → Portfolio application
+To connect this learning to my cybersecurity career path, I map Boot.dev concepts to:
+
+- OWASP Top 10 for web application risk awareness
+- OWASP ASVS for secure application/API verification
+- NIST SSDF for secure software development practices
 
 ## Goal
-My goal is to transition from hardware-focused security into broader software security, secure backend engineering, and DevSecOps.
+My goal is to transition from hardware security toward software security, application security, secure backend engineering, and DevSecOps.
 
 ## Focus Areas
 
@@ -28,27 +30,6 @@ My goal is to transition from hardware-focused security into broader software se
 - Joined Boot.dev: April 20
 - Actively started learning: May 4
 
-## Repositories
-
-### Foundation
-
-- bootdev-python-security
-- bootdev-linux-git-security
-
-### Software Security Foundations
-
-- bootdev-memory-c-security
-- bootdev-backend-security
-
-### DevSecOps
-
-- bootdev-devops-security
-- bootdev-web-security
-
-### Portfolio Projects
-
-- bootdev-secure-projects
-
 ## Career Direction
 
 This portfolio documents my Boot.dev learning journey, where I use backend, Python, Linux, Git, DevOps, and software engineering courses as a foundation for software security, AppSec, and DevSecOps growth.
@@ -58,6 +39,17 @@ This portfolio documents my Boot.dev learning journey, where I use backend, Pyth
 - Consistency over intensity.
 - I aim to make regular commits, document what I learn, and connect each technical topic back to practical security engineering.
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/d87574d1-57ea-4e2d-9747-8fa7a06ca5ba/thumbnail" >
-</p>
+## Active Repositories
+
+### Learning Repositories
+
+- https://github.com/DADAHOJO/bootdev-python-security
+
+### Portfolio Projects
+
+- https://github.com/DADAHOJO/bootdev-secure-projects
+
+## Learning Model
+
+```text
+Boot.dev concept → Security connection → Portfolio application
