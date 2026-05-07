@@ -1,4 +1,3 @@
-```markdown
 # Security References
 
 ## OWASP Top 10
