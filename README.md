@@ -1,6 +1,12 @@
 # Boot.dev Security Engineering Journey
 
-I am a cybersecurity / hardware security engineer building stronger software engineering, backend, and DevSecOps skills through Boot.dev.
+I am a cybersecurity / hardware security engineer using Boot.dev to build hands-on software engineering, backend, and DevOps foundations. I map those skills to software security using:
+
+- OWASP Top 10 : Use it to map Boot.dev backend/API lessons to common web application risks. [owasp.org]
+- OWASP ASVS : Use it as a checklist for secure backend/API projects. [owasp.org]
+- NIST SSDF : Use it to understand secure SDLC and professional secure development practices. [csrc.nist.gov]
+
+Boot.dev concept → Security connection → Portfolio application
 
 ## Goal
 My goal is to transition from hardware-focused security into broader software security, secure backend engineering, and DevSecOps.
@@ -26,26 +32,26 @@ My goal is to transition from hardware-focused security into broader software se
 
 ### Foundation
 
-- `bootdev-python-security`
-- `bootdev-linux-git-security`
+- bootdev-python-security
+- bootdev-linux-git-security
 
 ### Software Security Foundations
 
-- `bootdev-memory-c-security`
-- `bootdev-backend-security`
+- bootdev-memory-c-security
+- bootdev-backend-security
 
 ### DevSecOps
 
-- `bootdev-devops-security`
-- `bootdev-web-security`
+- bootdev-devops-security
+- bootdev-web-security
 
 ### Portfolio Projects
 
-- `bootdev-secure-projects`
+- bootdev-secure-projects
 
 ## Career Direction
 
-This portfolio documents my learning path from hardware security toward software security, application security, backend engineering, and DevSecOps.
+This portfolio documents my Boot.dev learning journey, where I use backend, Python, Linux, Git, DevOps, and software engineering courses as a foundation for software security, AppSec, and DevSecOps growth.
 
 ## Progress Philosophy
 
