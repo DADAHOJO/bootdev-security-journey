@@ -57,3 +57,7 @@ This portfolio documents my Boot.dev learning journey, where I use backend, Pyth
 
 - Consistency over intensity.
 - I aim to make regular commits, document what I learn, and connect each technical topic back to practical security engineering.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d87574d1-57ea-4e2d-9747-8fa7a06ca5ba/thumbnail" >
+</p>
