@@ -136,4 +136,5 @@ This portfolio documents my Boot.dev learning journey, where I use backend, Pyth
 
 ```text
 Boot.dev concept → Security connection → Portfolio application
+```
 
