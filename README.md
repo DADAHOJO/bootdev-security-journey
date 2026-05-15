@@ -81,7 +81,7 @@ See [roadmap.md](roadmap.md) for the complete learning roadmap and milestones.
 
 ## Additional Portfolio Context
 
-# Boot.dev Security Engineering Journey
+### Boot.dev Security Engineering Journey
 
 ## Portfolio Strategy
 

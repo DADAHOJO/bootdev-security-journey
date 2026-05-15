@@ -270,7 +270,7 @@ As learning progresses, additional projects may include:
 
 ## Extended Project Details
 
-# 🛠️ Portfolio Projects — Boot.dev Security Journey
+### 🛠️ Portfolio Projects — Boot.dev Security Journey
 
 ## 🎯 Purpose
 

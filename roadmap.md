@@ -219,7 +219,7 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ## Alternate Detailed Roadmap View
 
-# Boot.dev Security Engineering Roadmap
+### Boot.dev Security Engineering Roadmap
 
 ## Phase 1 — Foundation
 
