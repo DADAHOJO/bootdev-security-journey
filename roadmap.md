@@ -167,30 +167,6 @@ This roadmap documents my complete learning journey from hardware security to so
 | Dependencies | Supply chain security |
 | Logging | Detection & incident response |
 
-**Chapters:**
-- [x] Introduction
-- [x] Variables
-- [x] Functions
-- [x] Scope
-- [x] Testing and Debugging
-- [x] Computing
-- [x] Comparisons
-- [x] Loops
-- [x] Lists
-- [x] Dictionaries
-
-**Security Connections:**
-- Introduction → OWASP Top 10: A04: Insecure Design; secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
-- Variables → OWASP Top 10: A05: Security Misconfiguration; weak type assumptions and inconsistent state handling create brittle, misconfigured logic paths (A05: Security Misconfiguration)
-- Functions → OWASP Top 10: A03: Injection; reusable validation/sanitization functions reduce copy-paste mistakes and input injection risk (A03: Injection)
-- Scope → OWASP Top 10: A05: Security Misconfiguration; uncontrolled global state can leak or corrupt security-critical values (A05: Security Misconfiguration)
-- Testing and Debugging → OWASP Top 10: A05: Security Misconfiguration; poor debugging and untested error paths often leak internals and weaken fail-safe behavior (A05: Security Misconfiguration)
-- Computing → OWASP Top 10: A08: Software and Data Integrity Failures; low-level computing clarity supports robust encoding, boundary handling, and integrity-aware logic (A08: Software and Data Integrity Failures)
-- Comparisons → OWASP Top 10: A01: Broken Access Control; condition logic drives authorization outcomes and event classification (A01: Broken Access Control)
-- Loops → OWASP Top 10: A09: Security Logging and Monitoring Failures; robust loop design is essential for scanning large event streams without dropped logic paths (A09: Security Logging and Monitoring Failures)
-- Lists → OWASP Top 10: A09: Security Logging and Monitoring Failures; list operations power event collection, filtering, deduplication, and triage workflows (A09: Security Logging and Monitoring Failures)
-- Dictionaries → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
-
 ### Portfolio Work (Advanced Projects)
 
 **AppSec Review Project**
