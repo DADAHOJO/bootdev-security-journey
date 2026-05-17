@@ -8,7 +8,7 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ### Learn to Code in Python
 **Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
-**Security Mapping:** OWASP Top 10, OWASP ASVS, NIST SSDF
+**Security Mapping:** OWASP Top 10
 
 **Chapters:**
 - [x] Introduction
