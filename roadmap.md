@@ -6,6 +6,34 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ## Phase 1: Foundation (Current)
 
+### Learn to Code in Python
+**Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
+**Security Mapping:** OWASP Top 10 - Input validation, error handling, file operations
+
+**Chapters:**
+- [x] Introduction
+- [x] Variables
+- [x] Functions
+- [x] Scope
+- [x] Testing and Debugging
+- [x] Computing
+- [x] Comparisons
+- [x] Loops
+- [x] Lists
+- [x] Dictionaries
+
+**Security Connections:**
+- Introduction → secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
+- Variables → weak type assumptions and inconsistent state handling create brittle, misconfigured logic paths (A05: Security Misconfiguration)
+- Functions → reusable validation/sanitization functions reduce copy-paste mistakes and input injection risk (A03: Injection)
+- Scope → uncontrolled global state can leak or corrupt security-critical values (A05: Security Misconfiguration)
+- Testing and Debugging → poor debugging and untested error paths often leak internals and weaken fail-safe behavior (A05: Security Misconfiguration)
+- Computing → low-level computing clarity supports robust encoding, boundary handling, and integrity-aware logic (A08: Software and Data Integrity Failures)
+- Comparisons → condition logic drives authorization outcomes and event classification (A01: Broken Access Control)
+- Loops → robust loop design is essential for scanning large event streams without dropped logic paths (A09: Security Logging and Monitoring Failures)
+- Lists → list operations power event collection, filtering, deduplication, and triage workflows (A09: Security Logging and Monitoring Failures)
+- Dictionaries → chapter concepts are mapped to this OWASP area for practical secure coding behavior
+
 ### Learn Linux
 **Status:** ⏳ Not Started
 **Security Mapping:** File permissions, least privilege, system hardening
@@ -138,6 +166,30 @@ This roadmap documents my complete learning journey from hardware security to so
 | CI/CD | Pipeline hardening |
 | Dependencies | Supply chain security |
 | Logging | Detection & incident response |
+
+**Chapters:**
+- [x] Introduction
+- [x] Variables
+- [x] Functions
+- [x] Scope
+- [x] Testing and Debugging
+- [x] Computing
+- [x] Comparisons
+- [x] Loops
+- [x] Lists
+- [x] Dictionaries
+
+**Security Connections:**
+- Introduction → secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
+- Variables → weak type assumptions and inconsistent state handling create brittle, misconfigured logic paths (A05: Security Misconfiguration)
+- Functions → reusable validation/sanitization functions reduce copy-paste mistakes and input injection risk (A03: Injection)
+- Scope → uncontrolled global state can leak or corrupt security-critical values (A05: Security Misconfiguration)
+- Testing and Debugging → poor debugging and untested error paths often leak internals and weaken fail-safe behavior (A05: Security Misconfiguration)
+- Computing → low-level computing clarity supports robust encoding, boundary handling, and integrity-aware logic (A08: Software and Data Integrity Failures)
+- Comparisons → condition logic drives authorization outcomes and event classification (A01: Broken Access Control)
+- Loops → robust loop design is essential for scanning large event streams without dropped logic paths (A09: Security Logging and Monitoring Failures)
+- Lists → list operations power event collection, filtering, deduplication, and triage workflows (A09: Security Logging and Monitoring Failures)
+- Dictionaries → chapter concepts are mapped to this OWASP area for practical secure coding behavior
 
 ### Portfolio Work (Advanced Projects)
 
