@@ -7,6 +7,7 @@ This roadmap documents my complete learning journey from hardware security to so
 ## Phase 1: Foundation (Current)
 
 ### Learn to Code in Python
+> Sync Hint: [repo: bootdev-python-security]
 **Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
 **Security Mapping:** OWASP Top 10
 
