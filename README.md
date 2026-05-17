@@ -67,7 +67,7 @@ This journey maps software engineering concepts to cybersecurity standards:
 - **Joined Boot.dev:** April 20, 2026
 - **Active learning started:** May 4, 2026
 - **GitHub sync started:** May 7, 2026
-- **Latest activity:** May 17, 2026 (General learning update)
+- **Latest activity:** May 16, 2026 (Chapter 10 - Dictionaries)
 
 See [progress-log.md](progress-log.md) for detailed daily progress.
 
