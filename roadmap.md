@@ -6,26 +6,6 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ## Phase 1: Foundation (Current)
 
-### Learn to Code in Python
-**Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
-**Security Mapping:** OWASP Top 10 - Input validation, error handling, file operations
-
-**Chapters:**
-- [x] Hello World
-- [x] Variables
-- [x] Functions
-- [x] Loops
-- [x] Dictionaries
-- [x] File Handling
-- [x] Error Handling
-- [x] Debugging
-
-**Security Connections:**
-- Functions → Reusable validation logic (OWASP A03: Injection)
-- Dictionaries → Event counting for monitoring (OWASP A07: Identification and Authentication Failures)
-- File handling → Log parsing (OWASP A09: Security Logging and Monitoring Failures)
-- Error handling → Safe failure behavior (OWASP A05: Security Misconfiguration)
-
 ### Learn Linux
 **Status:** ⏳ Not Started
 **Security Mapping:** File permissions, least privilege, system hardening
@@ -56,14 +36,6 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ## Phase 2: Software Engineering
 
-### Object-Oriented Programming
-**Status:** ⏳ Not Started
-**Security Mapping:** Secure class design, encapsulation of security logic
-**Planned Security Connections:**
-- Classes → Security context objects
-- Inheritance → Reusable security components
-- Polymorphism → Flexible security policies
-
 ### Functional Programming
 **Status:** ⏳ Not Started
 **Security Mapping:** Immutable data, pure functions for validation
@@ -72,14 +44,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Pure functions → Predictable security checks
 - Higher-order functions → Composable security rules
 
-### Data Structures and Algorithms
-**Status:** ⏳ Not Started
-**Security Mapping:** Efficient security checks, algorithm analysis for DoS prevention
-**Planned Security Connections:**
-- Hash tables → Fast lookups for blacklists
-- Trees → Hierarchical permission structures
-- Graphs → Attack path analysis
-
 ### Memory Management in C
 **Status:** ⏳ Not Started
 **Security Mapping:** Buffer overflows, memory safety, secure coding
@@ -87,10 +51,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Pointers → Memory corruption prevention
 - Allocation → Secure memory handling
 - Strings → Buffer overflow prevention
-
-### Portfolio Work
-- Start **File Integrity Monitor**
-
 
 ## Phase 3: Backend and AppSec Foundation
 
@@ -102,14 +62,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Error handling → Explicit error propagation
 - Modules → Secure dependency management
 
-### HTTP Clients
-**Status:** ⏳ Not Started
-**Security Mapping:** Secure communication, certificate validation
-**Planned Security Connections:**
-- HTTPS → Transport layer security
-- Headers → Security header configuration
-- Authentication → Secure credential handling
-
 ### SQL
 **Status:** ⏳ Not Started
 **Security Mapping:** SQL injection prevention, secure database access
@@ -118,14 +70,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Transactions → Atomic security operations
 - Schema → Secure data design
 
-### HTTP Servers
-**Status:** ⏳ Not Started
-**Security Mapping:** Secure API design, authentication, authorization
-**Planned Security Connections:**
-- Routing → Secure endpoint design
-- Middleware → Security filters
-- Error handling → Safe error responses
-
 ### Docker
 **Status:** ⏳ Not Started
 **Security Mapping:** Container security, image hardening
@@ -133,15 +77,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Images → Minimal attack surface
 - Containers → Isolation and sandboxing
 - Networks → Secure communication
-
-### Web Security
-**Status:** ⏳ Not Started
-**Security Mapping:** OWASP Top 10 comprehensive coverage
-**Planned Security Connections:**
-- Authentication → OWASP A07
-- Authorization → OWASP A01
-- Validation → OWASP A03
-- Logging → OWASP A09
 
 ### Portfolio Work
 
@@ -175,14 +110,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - VPC → Network isolation
 - S3 → Secure object storage
 
-### CI/CD
-**Status:** ⏳ Not Started
-**Security Mapping:** Secure pipeline, automated security testing
-**Planned Security Connections:**
-- Pipelines → Automated security checks
-- Artifacts → Secure artifact management
-- Deployments → Secure release process
-
 ### Logging and Observability
 **Status:** ⏳ Not Started
 **Security Mapping:** Security monitoring, incident response
@@ -190,12 +117,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Logs → Security event correlation
 - Metrics → Attack detection
 - Tracing → Incident investigation
-
-### Portfolio Work
-
-- Containerized Security Toolkit
-- Extend Secure Backend API
-
 
 ## Phase 5 — Advanced Security / Specialization
 
@@ -207,47 +128,6 @@ This roadmap documents my complete learning journey from hardware security to so
 - Vulnerability Assessment
 - DevSecOps Engineering
 - Software Supply Chain Security
-
-### Key Topics to Learn
-
-#### Application Security
-
-- OWASP Top 10 deep dive
-- Secure API design
-- Input validation & output encoding
-- Authentication & authorization
-- Cryptography basics
-
-#### Threat Modeling
-
-- STRIDE model
-- Attack surface analysis
-- Data flow diagrams
-- Abuse cases
-
-#### Vulnerability Analysis
-
-- Static Analysis (SAST)
-- Dynamic Analysis (DAST)
-- Manual code review
-- Bug classes:
-  - Injection
-  - Broken access control
-  - Security misconfiguration
-
-#### Secure SDLC
-
-- NIST SSDF practices
-- Secure design principles
-- Secure coding guidelines
-- Code review processes
-
-#### Supply Chain Security
-
-- Dependency vulnerabilities
-- SBOM (Software Bill of Materials)
-- Secure package management
-- Signing and verification
 
 ### Security Mapping
 
@@ -301,13 +181,6 @@ By completing Phase 5, I will:
 
 ## Milestones
 
-### Short-term (1-3 months)
-- [ ] Complete Learn Linux
-- [ ] Complete Learn Git
-- [ ] Build Bookbot project
-- [ ] Start Object-Oriented Programming
-- [ ] Build Python Log Analyzer (Project 1)
-
 ### Mid-term (3-6 months)
 - [ ] Complete Phase 2 (Software Engineering)
 - [ ] Build File Integrity Monitor (Project 2)
@@ -323,17 +196,8 @@ By completing Phase 5, I will:
 
 ## Security Standards Integration
 
-### OWASP Top 10
-- **Primary focus** during Phase 1 and 3
-- Map every concept to relevant category
-- Build projects demonstrating mitigations
-
 ### OWASP ASVS
 - **Secondary focus** during Phase 3 and 4
 - Use as checklist for project requirements
 - Document ASVS compliance in projects
 
-### NIST SSDF
-- **Advanced focus** during Phase 4
-- Map DevSecOps practices to SSDF categories
-- Document secure development lifecycle
