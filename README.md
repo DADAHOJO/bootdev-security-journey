@@ -1,4 +1,4 @@
-# Boot.dev Security Journey
+﻿# Boot.dev Security Journey
 
 Boot.dev is my software engineering foundation. It helps me build practical skills in Python, Linux, Git, backend development, databases, Docker, Kubernetes, AWS, and DevOps.
 
@@ -6,7 +6,7 @@ Boot.dev is my software engineering foundation. It helps me build practical skil
 
 Transitioning from hardware security to software security through structured learning on Boot.dev. This repository serves as the central hub for my learning journey, connecting all Boot.dev and security-focused repositories.
 
-Hardware Security → Software Engineering → Software Security/AppSec/DevSecOps
+Hardware Security â†’ Software Engineering â†’ Software Security/AppSec/DevSecOps
 
 ## Focus Areas
 
