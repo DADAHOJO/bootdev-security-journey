@@ -5,16 +5,14 @@ Daily progress tracking for Boot.dev security journey.
 ## May 2026
 
 ### May 17, 2026
-- **Streak Activity:** 1 Boot.dev/GitHub activity
-- **Chapter Focus:** General learning update
-- **Lesson Concepts Covered:** progress updates
-- **Security Connection:** A09: Security Logging and Monitoring Failures
+- **Boot.dev/GitHub Activity:** 1
+- **Progress Sync:** General learning update
+- **Security Focus:** A09: Security Logging and Monitoring Failures
 
 ### May 16, 2026
-- **Streak Activity:** 1 Boot.dev/GitHub activity
-- **Chapter Focus:** Chapter 10 - Dictionaries
-- **Lesson Concepts Covered:** Dictionaries, Duplicate Keys
-- **Security Connection:** A09: Security Logging and Monitoring Failures
+- **Boot.dev/GitHub Activity:** 1
+- **Progress Sync:** Chapter 10 - Dictionaries
+- **Security Focus:** A09: Security Logging and Monitoring Failures
 
 ### May 15, 2026
 - **Boot.dev/GitHub Activity:** 1
