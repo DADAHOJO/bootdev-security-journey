@@ -22,6 +22,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - [x] Loops
 - [x] Lists
 - [x] Dictionaries
+- [x] Sets
 
 **Security Connections:**
 - Introduction → OWASP Top 10: A04: Insecure Design; secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
@@ -34,6 +35,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - Loops → OWASP Top 10: A09: Security Logging and Monitoring Failures; robust loop design is essential for scanning large event streams without dropped logic paths (A09: Security Logging and Monitoring Failures)
 - Lists → OWASP Top 10: A09: Security Logging and Monitoring Failures; list operations power event collection, filtering, deduplication, and triage workflows (A09: Security Logging and Monitoring Failures)
 - Dictionaries → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
+- Sets → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 
 ### Learn Linux
 **Status:** ⏳ Not Started
