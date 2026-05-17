@@ -7,7 +7,7 @@ This roadmap documents my complete learning journey from hardware security to so
 ## Phase 1: Foundation (Current)
 
 ### Learn to Code in Python
-**Status:** 🔄 In Progress (May 4, 2026 - May 16, 2026)
+**Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
 **Security Mapping:** OWASP Top 10 - Input validation, error handling, file operations
 
 **Chapters:**
