@@ -73,18 +73,19 @@ Daily progress tracking for Boot.dev security journey.
 
 ### Completed Boot.dev Content
 - **Learn to Code in Python:** Chapters 1–10 completed and synced to GitHub docs
-- **Active days represented:** May 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17 (2026)
+- **Active days represented:** May: 4 - 17 (2026)
 
 ### Security Mapping Progress
-- CH1 Introduction â†’ OWASP A04
-- CH2 Variables â†’ OWASP A05
-- CH3 Functions â†’ OWASP A03
-- CH4 Scope â†’ OWASP A05
-- CH5 Testing/Debugging â†’ OWASP A05
-- CH6 Computing â†’ OWASP A04/A08
-- CH7 Comparisons â†’ OWASP A01/A09
-- CH8 Loops â†’ OWASP A09
-- CH9 Lists â†’ OWASP A09
+- CH1 Introduction → OWASP A04
+- CH2 Variables → OWASP A05
+- CH3 Functions → OWASP A03
+- CH4 Scope → OWASP A05
+- CH5 Testing and Debugging → OWASP A05
+- CH6 Computing → OWASP A04/A08
+- CH7 Comparisons → OWASP A01/A09
+- CH8 Loops → OWASP A09
+- CH9 Lists → OWASP A09
+- CH10 Dictionaries → OWASP A09
 
 ### Next Learning Goals
 - Continue Boot.dev Chapter 10+
