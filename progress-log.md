@@ -72,8 +72,8 @@ Daily progress tracking for Boot.dev security journey.
 ## Summary
 
 ### Completed Boot.dev Content
-- **Learn to Code in Python:** Chapters 1–9 completed and synced to GitHub docs
-- **Active days represented:** May 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15
+- **Learn to Code in Python:** Chapters 1�10 completed and synced to GitHub docs
+- **Active days represented:** May 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17 (2026)
 
 ### Security Mapping Progress
 - CH1 Introduction → OWASP A04
