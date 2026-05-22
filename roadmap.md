@@ -8,7 +8,7 @@ This roadmap documents my complete learning journey from hardware security to so
 
 ### Learn to Code in Python
 <!-- Sync Hint: [repo: bootdev-python-security] -->
-**Status:** 🔄 In Progress (May 4, 2026 - May 17, 2026)
+**Status:** 🔄 In Progress (May 4, 2026 - May 23, 2026)
 **Security Mapping:** OWASP Top 10
 
 **Chapters:**
@@ -23,6 +23,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - [x] Lists
 - [x] Dictionaries
 - [x] Sets
+- [x] Errors
 
 **Security Connections:**
 - Introduction → OWASP Top 10: A04: Insecure Design; secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
@@ -36,6 +37,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - Lists → OWASP Top 10: A09: Security Logging and Monitoring Failures; list operations power event collection, filtering, deduplication, and triage workflows (A09: Security Logging and Monitoring Failures)
 - Dictionaries → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 - Sets → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
+- Errors → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 
 ### Learn Linux
 **Status:** ⏳ Not Started
