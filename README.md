@@ -67,7 +67,7 @@ This journey maps software engineering concepts to cybersecurity standards:
 - **Joined Boot.dev:** April 20, 2026
 - **Active learning started:** May 4, 2026
 - **GitHub sync started:** May 7, 2026
-- **Latest activity:** May 30, 2026 (Chapter 14 - Object-Oriented Programming)
+- **Latest activity:** May 30, 2026 (Chapter 15 - Classes)
 
 See [progress-log.md](progress-log.md) for detailed daily progress.
 
