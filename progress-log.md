@@ -6,7 +6,7 @@ Daily progress tracking for Boot.dev security journey.
 
 ### May 31, 2026
 - **Boot.dev/GitHub Activity:** 1
-- **Progress Sync:** Chapter 16 - Encapsulation
+- **Progress Sync:** Chapter 17 - Abstraction
 - **Security Focus:** A09: Security Logging and Monitoring Failures
 
 ### May 30, 2026
@@ -92,7 +92,7 @@ Daily progress tracking for Boot.dev security journey.
 ## Summary
 
 ### Completed Boot.dev Content
-- **Learn to Code in Python:** Chapters 1–16 completed and synced to GitHub docs
+- **Learn to Code in Python:** Chapters 1–17 completed and synced to GitHub docs
 - **Active days represented:** May: 4 - 31 (2026)
 
 ### Security Mapping Progress
@@ -110,7 +110,7 @@ Daily progress tracking for Boot.dev security journey.
 - CH12 Errors → OWASP mapping in progress
 - CH13 Type Hints → OWASP mapping in progress
 - CH15 Classes → OWASP mapping in progress
-- CH16 Encapsulation → OWASP A09
+- CH17 Abstraction → OWASP A09
 
 ### Next Learning Goals
 - Continue Boot.dev Chapter 10+

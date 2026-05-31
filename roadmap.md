@@ -28,6 +28,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - [x] Object-Oriented Programming
 - [x] Classes
 - [x] Encapsulation
+- [x] Abstraction
 
 **Security Connections:**
 - Introduction → OWASP Top 10: A04: Insecure Design; secure coding begins with deterministic logic and predictable execution understanding (A04: Insecure Design)
@@ -46,6 +47,7 @@ This roadmap documents my complete learning journey from hardware security to so
 - Object-Oriented Programming → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 - Classes → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 - Encapsulation → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
+- Abstraction → OWASP Top 10: OWASP A09: Security Logging and Monitoring Failures; chapter concepts are mapped to this OWASP area for practical secure coding behavior
 
 ### Learn Linux
 **Status:** ⏳ Not Started
